@@ -1,0 +1,9 @@
+.containerGroup {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color:#FF0000; 
+    border-style:solid;
+    border-width: 0px;
+    background: rgba(254,254,254,1);
+    background: linear-gradient(rgba(189,189,189,0.5),transparent);
+}
